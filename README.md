@@ -1,2 +1,2 @@
-# Stat-201-group-project
+# Temperature Analysis
 As climate change worsens, climate factors become a consideration for immigrants to choose which city or country for their relocation.Latitude is one of the predominant factors that affect temperature, our null hypothesis suggests that places with the same latitude should have the same temperature. Hence, we aim to seek whether cities of the same latitude differ in temperature. We hope that the findings of this research could give future migrants more information on how to choose geographical locations when considering migrating within the country.
